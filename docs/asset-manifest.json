@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.e6c13ad2.css",
-    "main.js": "/static/js/main.e7e585d1.js",
-    "index.html": "/index.html",
-    "main.e6c13ad2.css.map": "/static/css/main.e6c13ad2.css.map",
-    "main.e7e585d1.js.map": "/static/js/main.e7e585d1.js.map"
+    "main.css": "/TTMC-gpt-app/static/css/main.e6c13ad2.css",
+    "main.js": "/TTMC-gpt-app/static/js/main.e7e585d1.js",
+    "index.html": "/TTMC-gpt-app/index.html",
+    "main.e6c13ad2.css.map": "/TTMC-gpt-app/static/css/main.e6c13ad2.css.map",
+    "main.e7e585d1.js.map": "/TTMC-gpt-app/static/js/main.e7e585d1.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
